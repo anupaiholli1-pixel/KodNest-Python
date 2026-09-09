@@ -1,0 +1,6 @@
+print("This is my first program")
+print("Name:Anup Aiholli")
+print("Age: 22")
+print("City: Vijayapur")
+print("Favorite Programming Language: Python")
+print("This is my second week of learning python, and I'm already excited to learn more about it.I am looking forward to build amazing projects with python and contribute to the open source community.I am confident that python will help me achieve my career goals.")    
